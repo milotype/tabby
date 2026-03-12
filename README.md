@@ -1,4 +1,6 @@
-[![](docs/readme.png)](https://tabby.sh)
+# Tabby
+## A terminal for the modern age
+[![](docs/readme-picture.png)](https://tabby.sh)
 
 
 <p align="center">
@@ -26,7 +28,7 @@
 
 <br/>
 <p align="center">
-This README is also available in: <a  href="./README.es-ES.md">:es: Spanish</a> · <a  href="./README.ru-RU.md">:ru: Русский</a> · <a  href="./README.ko-KR.md">:kr: 한국어</a> · <a  href="./README.zh-CN.md">:cn: 简体中文</a> · <a  href="./README.it-IT.md">:it: Italiano</a> · <a href="./README.de-DE.md">:de: Deutsch</a> · <a href="./README.ja-JP.md">:jp: 日本語</a> · <a href="./README.id-ID.md">:id: Bahasa Indonesia</a> · <a href="./README.pt-BR.md">:brazil: Português</a> · <a href="./README.pl-PL.md">:poland: Polski</a>
+This README is also available in: <a href="./README.es-ES.md">:es: Español</a> · <a href="./README.ru-RU.md">:ru: Русский</a> · <a href="./README.ko-KR.md">:kr: 한국어</a> · <a href="./README.zh-CN.md">:cn: 简体中文</a> · <a href="./README.it-IT.md">:it: Italiano</a> · <a href="./README.de-DE.md">:de: Deutsch</a> · <a href="./README.ja-JP.md">:jp: 日本語</a> · <a href="./README.id-ID.md">:id: Bahasa Indonesia</a> · <a href="./README.pt-BR.md">:brazil: Português</a> · <a href="./README.pl-PL.md">:poland: Polski</a> · <a href="./README.hr-HR.md">:hr: Hrvatski</a>
 </p>
 
 ----
@@ -153,7 +155,7 @@ Plugins and themes can be installed directly from the Settings view inside Tabby
 
 [**keygen**](https://keygen.sh/?via=eugene) has provided free release & auto-update hosting
 
-<a href="https://iqhive.com/"><img src="https://iqhive.com/img/icons/logo.svg" width="200"></a>
+<a href="docs/iqhive_logo.jpg/"><img "iqhive_logo.jpg" width="200"></a>
 
 [**IQ Hive**](https://iqhive.com) is providing financial support for the project development
 
