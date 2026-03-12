@@ -155,7 +155,7 @@ Plugins and themes can be installed directly from the Settings view inside Tabby
 
 [**keygen**](https://keygen.sh/?via=eugene) has provided free release & auto-update hosting
 
-<a href="https://iqhive.com/"><img src="docs/iqhive_logo.jpg" width="200"></a>
+<a href="https://iqhive.com/"><img src="docs/iqhive_logo.png" width="150"></a>
 
 [**IQ Hive**](https://iqhive.com) is providing financial support for the project development
 
